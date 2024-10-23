@@ -61,7 +61,7 @@ Actualmente, mi foco está en el desarrollo de **aplicaciones multiplataforma**.
 
 <div align="center">
 
-## **🌐 Connect with me:**
+## **🌐 Connect with me**
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/llavefija) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abelcp/) 
