@@ -1,5 +1,5 @@
 Soy Abel, un apasionado desarrollador de software que vive en Rubí y siempre está en busca de nuevos retos. Actualmente estoy trabajando en aplicaciones .NET MAUI y tengo experiencia en varios lenguajes, como Java, Python, C#, y más.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llavefija&show_icons=true&theme=radical)
 
 He explorado diversos sectores, desde la seguridad hasta el análisis de datos, y ahora estoy enfocado en el desarrollo de aplicaciones multiplataforma. 
 
