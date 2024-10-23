@@ -53,7 +53,7 @@ Actualmente, mi foco está en el desarrollo de **aplicaciones multiplataforma**.
 <div align="center">
 
 ## **🎧 What I'm Listening To**  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/abelcumbreno)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/abelcumbre%C3%B1o)
 
 </div>
 
