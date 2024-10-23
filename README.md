@@ -65,8 +65,13 @@ Actualmente, mi foco está en el desarrollo de **aplicaciones multiplataforma**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/llavefija) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abelcp/) 
-[![Email](https://img.shields.io/badge/Email-9B59B6?logo=gmail&style=for-the-badge)](mailto:abelcumbrenobalmes@gmail.com) 
-[![Phone](https://img.shields.io/badge/Phone-2ECC71?style=for-the-badge)](tel:+34646858657)
+
+</div>
+
+<div align="center">
+  
+Mail: abelcumbrenobalmes@gmail.com | 
+Telf: 646 85 86 57
 
 </div>
 
