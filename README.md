@@ -52,15 +52,6 @@ Actualmente, mi foco está en el desarrollo de **aplicaciones multiplataforma**.
 
 <div align="center">
 
-## **🎧 What I'm Listening To**  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/abelcumbre%C3%B1o)
-
-</div>
-
----
-
-<div align="center">
-
 ## **🌐 Connect with me**
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/llavefija) 
