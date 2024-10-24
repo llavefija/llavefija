@@ -26,7 +26,7 @@ Actualmente, mi foco está en el desarrollo de **aplicaciones multiplataforma**.
 
 | **Stats** | **Top Languages used** |
 |----------------|---------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llavefija&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llavefija&layout=compact&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llavefija&show_icons=true&count_private=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llavefija&layout=compact&theme=radical) |
 
 </div>
 
