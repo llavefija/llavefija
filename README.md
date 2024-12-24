@@ -1,10 +1,12 @@
-# Hola, soy Abel Cumbreño
+# Hola mundo, soy Abel Cumbreño.
 *Aún no he comenzado a hablar en ceros y unos, así que sigo siendo humano (o eso creo).*  
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FFFFFF&center=false&vCenter=true&width=435&lines=Full-Stack+Developer" alt="Typing Animation"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=llavefija&color=brightgreen)
 [![GitHub Follow](https://img.shields.io/github/followers/llavefija?label=Follow&style=social)](https://github.com/llavefija)
+
 
 ```javascript
 const abel = {
@@ -36,7 +38,9 @@ const abel = {
 
 Y bueno... que tal llevo el año?
 
-<img src="https://github-readme-stats.vercel.app/api?username=llavefija&show_icons=true&count_private=true&theme=radical&hide_title=true&border_radius=5" width="51%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llavefija&layout=compact&theme=radical&hide_title=true&border_radius=5" width="40%" /> 
+![llavefija's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llavefija&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+![llavefija's Stats](https://github-readme-stats.vercel.app/api?username=llavefija&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
