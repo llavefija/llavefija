@@ -8,7 +8,7 @@
 const Abel_Cumbreno = {
   name: "Llavefija",
   location: "Rubí, Barcelona, España",
-  proyects: "In progress",
+  job: "In progress",
   proyects: [
     "Master of Black-Jack - C# Console - Working", 
     "Growly - React Expo - 0%",
