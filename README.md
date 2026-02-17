@@ -12,9 +12,9 @@ const Abel_Cumbreno = {
   proyects: [
     "Master of Black-Jack - C# Console - Working", 
     "Growly - React Expo - 0%",
-    "Secretos de Ray - .NET MAUI - Finish"
+    "Advent Calendar (Secretos de Ray) - .NET MAUI - Finish"
     "Local Vibes - ASP.NET Core (MVC) - Finish"
-    "Hackaton - Java Spring Boot & JavaScript - Finish"
+    "CrowdMap (Hackaton) - Java Spring Boot & JavaScript - Finish"
   ],
 };
 ````
