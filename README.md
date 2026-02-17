@@ -13,6 +13,7 @@ const Abel_Cumbreno = {
     "Master of Black-Jack - C# Console - Working", 
     "Growly - React Expo - 0%",
     "Secretos de Ray - .NET MAUI - Finish"
+    "Local Vibes - ASP.NET Core (MVC) - Finish"
   ],
 };
 ````
